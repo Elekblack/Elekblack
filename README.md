@@ -27,7 +27,6 @@ En este espacio comparto mis experimentos con **Arduino, ESP32, robótica educat
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=red)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FFA500?style=for-the-badge&logo=platformio&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -37,7 +36,7 @@ En este espacio comparto mis experimentos con **Arduino, ESP32, robótica educat
 ## 📌 Proyectos destacados  
 
 - 🤖 **Curso de robótica infantil con ESP32 y Arduino** → ejemplos prácticos con motores, servos, sensores y comunicación inalámbrica.  
-- 🏠 **Sistema web inmobiliario en wordpress con plugin personalisado** → catálogo de propiedades con filtros, múltiples fotos y gestión de disponibilidad.  
+- 🏠 **Sistema web inmobiliario en wordpress con plugin personalizado** → catálogo de propiedades con filtros, múltiples fotos y gestión de disponibilidad.  
 - 📘 **Ebook de robótica educativa** → 12 capítulos con proyectos guiados paso a paso.  
 
 ---
@@ -51,7 +50,7 @@ En este espacio comparto mis experimentos con **Arduino, ESP32, robótica educat
 
 ## 🌐 Conecta conmigo  
 
-[![Website]([https://www.tiktok.com/@cacharreandomaker?style=for-the-badge&logo=About.me&logoColor=white)](#)    
+[![Website](https://www.tiktok.com/@cacharreandomaker)](#)    
 
 ---
 
